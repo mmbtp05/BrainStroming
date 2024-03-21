@@ -1,0 +1,12 @@
+Competitive Coding Platform Development: Spearheaded the creation of a dynamic platform akin to LeetCode and Codeforces, 
+where users engage in coding contests to test and enhance their skills, while receiving ratings based on their performance.
+
+Comprehensive Practice Environment: Implemented a robust practice module allowing users to tackle questions from past contests,
+ fostering skill refinement and mastery. Admins can seamlessly manage unpublished questions and upload test cases to enrich the practice experience.
+
+Resource and Priority Management: Designed and implemented a sophisticated queue system to manage server resources efficiently,
+ ensuring fair execution of contest submissions and prioritizing live contest activities over practice submissions.
+
+Admin Tools for Contest Management: Developed admin functionalities enabling scheduling of upcoming contests,
+ selection of unpublished questions, and post-contest rating and ranking management. Admins also have the ability to edit
+, add, or remove unpublished problems, ensuring flexibility and control over contest content.
